@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fodebee Mart - Update</title>
+    <!-- Stylesheets -->
+    <link rel="stylesheet" href="./css/styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" integrity="sha512-5A8nwdMOWrSz20fDsjczgUidUBR8liPYU+WymTZP1lmY9G6Oc7HlZv156XqnsgNUzTyMefFTcsFH/tnJE/+xBg==" crossorigin="anonymous"/>
+</head>
+    <body>
+        <header>
+            <div class="navbar">
+                <a href="./index.html"><img class="logo" src="./static/images/Fodebee-nb.png" alt="logo"></a>
+                <nav>
+                    <ul class="nav_links">
+                        <li><a href="#">Services</a></li>
+                        <li><a href="#">Contact</a></li>
+                        <li><a href="#">About</a></li>
+                    </ul>
+                </nav>
+                <a class="cta" href="#"><button>Login</button></a>
+            </div>
+            <h1 class="update-header">Update Keyboard</h1>
+        </header>
+
+        <div class="addForm">
+            <form id="productForm" class="add-new-product">
+                <div class="adding-product">
+                    <div class="product-image form-control">
+                        <div class="display">
+                            <img src="./static//images/logitech-g915.png" alt="Product Image">
+                        </div>
+                        <label for="productImage">Upload Image</label>
+                        <input type="file" id="productImage" class="upload-image" style="display:none" accept=".jpg, .png, .jpeg, .webp">
+                    </div>
+    
+                    <div class="product-name form-control">
+                        <label for="productName">Product Name: </label>
+                        <input id="productName"  class="input-field" type="text" placeholder="Ex. Logitech G123 etc.">
+                    </div>
+    
+                    <div class="product-price form-control">
+                        <label for="productPrice">Price: </label>
+                        <input id="productPrice"  class="input-field" type="text" placeholder="Ex. 149.99 etc.">
+                    </div>
+    
+                    <div class="product-key-type form-control">
+                        <label for="productKeyType">Key Type: </label>
+                        <input id="productName"  class="input-field" type="text" placeholder="Ex. MX Blue etc.">
+                    </div>
+    
+                    <div class="product-condition form-control">
+                        <label for="productCondition">Condition: </label>
+                        <input id="productCondition"  class="input-field" type="text" placeholder="Ex. Refurbished etc.">
+                    </div>
+    
+                    <div class="addButton form-control">
+                        <button type="submit">Submit</button>
+                        <button type="submit">Cancel</button>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </body>
+</html>
