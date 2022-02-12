@@ -1,0 +1,54 @@
+{
+    "products": {
+        "-MvjnBKEqDGtHC-0hOsh": {
+          "key": "e6f8db49-b4ce-44b0-ac6d-e83bd30137ed",
+          "sku": "066be07f-c5fe-4d31-b8c6-2713ab8852c6",
+          "image": "http://dummyimage.com/422x301.png/ff4444/ffffff",
+          "name": "http://dummyimage.com/462x492.png/cc0000/ffffff",
+          "price": "$16.58",
+          "condition": "Horned lark",
+          "keyType": "Eremophila alpestris",
+          "rating": 3
+        },
+        "-MvjnBKFwRoUefHCQSzm": {
+          "key": "c75c4875-407f-40fa-a237-6d78181e2fa1",
+          "sku": "77e31856-570e-4181-bbd0-cf7c582dd8e4",
+          "image": "http://dummyimage.com/421x340.png/ff4444/ffffff",
+          "name": "http://dummyimage.com/424x474.png/cc0000/ffffff",
+          "price": "$339.78",
+          "condition": "Squirrel, red",
+          "keyType": "Tamiasciurus hudsonicus",
+          "rating": 1
+        },
+        "-MvjnBKH8nGZ2eZAS_cD": {
+          "key": "3e68249e-ea73-4ca4-ab32-801cad5d9b4d",
+          "sku": "d6b4b699-29ce-44df-ba72-219e4078f46d",
+          "image": "http://dummyimage.com/353x420.png/dddddd/000000",
+          "name": "http://dummyimage.com/351x397.png/dddddd/000000",
+          "price": "$31.61",
+          "condition": "Topi",
+          "keyType": "Damaliscus lunatus",
+          "rating": 4
+        },
+        "-MvjnBKJzTmKlkpA5uU7": {
+          "key": "1f16d327-b0b9-4969-9aea-abeb04b8c3f0",
+          "sku": "53b79df6-06d4-4e7a-b2c7-a4eadcd5b769",
+          "image": "http://dummyimage.com/295x418.png/cc0000/ffffff",
+          "name": "http://dummyimage.com/487x459.png/dddddd/000000",
+          "price": "$104.66",
+          "condition": "Grant's gazelle",
+          "keyType": "Gazella granti",
+          "rating": 3
+        },
+        "-MvjnBKKZgh4aW1hWEAR": {
+          "key": "1eb8acf8-f6a7-486a-af34-fcc854f64c55",
+          "sku": "60d1a171-e67e-44c6-a56a-edd4c888fc04",
+          "image": "http://dummyimage.com/309x455.png/ff4444/ffffff",
+          "name": "http://dummyimage.com/416x380.png/ff4444/ffffff",
+          "price": "$205.36",
+          "condition": "Duck, mountain",
+          "keyType": "Hymenolaimus malacorhynchus",
+          "rating": 5
+        }
+    }
+}
